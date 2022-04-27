@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>aaa.webp</file>
+        <file>guess.png</file>
+    </qresource>
+</RCC>
